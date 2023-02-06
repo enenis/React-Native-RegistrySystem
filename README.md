@@ -13,7 +13,7 @@ Register Screen:<br>
 <img src="https://user-images.githubusercontent.com/99321522/216844657-740c766b-02c1-4197-99e2-77bb73b69c25.png" width="350" height="650" />
 <br>
 <hr>
-Login Screen:
+Login Screen:<br>
 <img src="https://user-images.githubusercontent.com/99321522/216844691-40c1e0ba-ab0c-49b4-9a40-88af519643fc.png" width="350" height="650" />
 <br>
 
