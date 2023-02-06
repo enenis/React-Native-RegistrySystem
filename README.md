@@ -9,7 +9,7 @@ Welcome Screen:<br>
 <img src="https://user-images.githubusercontent.com/99321522/216844646-5dc6148d-104b-4f60-9c9c-1a168bb9361b.png" width="350" height="650" />
 <br>
 <hr>
-Register Screen:
+Register Screen:<br>
 <img src="https://user-images.githubusercontent.com/99321522/216844657-740c766b-02c1-4197-99e2-77bb73b69c25.png" width="350" height="650" />
 <br>
 <hr>
