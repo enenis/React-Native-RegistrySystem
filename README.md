@@ -1,6 +1,6 @@
 # React-Native-RegistrySystem
 <br>
-<b>Hello, in this project, I reflected the registration system that I wrote with javascript to the screen with React-Native.
+<b>Hello</b>, in this project, I reflected the registration system that I wrote with javascript to the screen with React-Native.
 <hr>
 
 
