@@ -19,4 +19,3 @@
 <img src="https://user-images.githubusercontent.com/99321522/216844691-40c1e0ba-ab0c-49b4-9a40-88af519643fc.png" width="350" height="700" />
 <br>
 
-<small>Thank you so much for reading and reviewing this far.</small>
